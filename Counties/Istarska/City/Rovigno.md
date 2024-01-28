@@ -1,5 +1,5 @@
 ﻿---
-location: [45.08,13.65]
+location: [45.08,13.65] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.65]
-[geo-lat::45.08]
-[name::Rovinj]
-[State::]
-[Country :: [[Croatia]] ]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.65] 
+[geo-lat::45.08] 
+[name::Rovinj] 
+State ::  
+Country :: [[Croatia]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rovigno
-coordinates: [[Rovigno]]
-markerFile: [[Rovigno]]
+coordinates: [[Rovigno]] 
+markerFile: [[Rovigno]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

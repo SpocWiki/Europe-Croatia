@@ -1,5 +1,5 @@
 ﻿---
-location: [43.7,16.63]
+location: [43.7,16.63] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.63]
-[geo-lat::43.7]
-[name::Sinj]
-[State::]
-[Country[[../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.63] 
+[geo-lat::43.7] 
+[name::Sinj] 
+State ::  
+Country :: [[../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Sinj
-coordinates: [[Sinj]]
-markerFile: [[Sinj]]
+coordinates: [[Sinj]] 
+markerFile: [[Sinj]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

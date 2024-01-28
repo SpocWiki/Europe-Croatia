@@ -1,5 +1,5 @@
 ﻿---
-location: [45.3,14.72]
+location: [45.3,14.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.72]
-[geo-lat::45.3]
-[name::Fuzine]
-[State::]
-[Country[[../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.72] 
+[geo-lat::45.3] 
+[name::Fuzine] 
+State ::  
+Country :: [[../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Fuzine
-coordinates: [[Fuzine]]
-markerFile: [[Fuzine]]
+coordinates: [[Fuzine]] 
+markerFile: [[Fuzine]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [44.53,14.47]
+location: [44.53,14.47] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.47]
-[geo-lat::44.53]
-[name::Mali Lošinj]
-[State::]
-[Country:: [ [[Croatia]] ] ]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.47] 
+[geo-lat::44.53] 
+[name::Mali Lošinj] 
+State ::  
+Country :: [ [[Croatia]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Lussinpiccolo
-coordinates: [[Lussinpiccolo]]
-markerFile: [[Lussinpiccolo]]
+coordinates: [[Lussinpiccolo]] 
+markerFile: [[Lussinpiccolo]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

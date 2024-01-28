@@ -1,5 +1,5 @@
-﻿---
-location: [45.55,18.7]
+---
+location: [45.55,18.7] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.7]
-[geo-lat::45.55]
-[name::Osijek]
-[State::]
-[Country[[../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.7] 
+[geo-lat::45.55] 
+[name::Osijek] 
+State ::  
+Country :: [[../../../../Croatia]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Osijek
-coordinates: [[Osijek]]
-markerFile: [[Osijek]]
+coordinates: [[Osijek]] 
+markerFile: [[Osijek]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

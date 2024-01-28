@@ -1,5 +1,5 @@
 ﻿---
-location: [45.43,13.52]
+location: [45.43,13.52] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.52]
-[geo-lat::45.43]
-[name::Umag]
-[State::]
-[Country :: [[Croatia]] ]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.52] 
+[geo-lat::45.43] 
+[name::Umag] 
+State ::  
+Country :: [[Croatia]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Umago
-coordinates: [[Umago]]
-markerFile: [[Umago]]
+coordinates: [[Umago]] 
+markerFile: [[Umago]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

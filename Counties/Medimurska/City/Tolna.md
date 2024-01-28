@@ -1,5 +1,5 @@
 ﻿---
-location: [46.42,16.45]
+location: [46.42,16.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.45]
-[geo-lat::46.42]
-[name::Tolna]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.45] 
+[geo-lat::46.42] 
+[name::Tolna] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Tolna
-coordinates: [[Tolna]]
-markerFile: [[Tolna]]
+coordinates: [[Tolna]] 
+markerFile: [[Tolna]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

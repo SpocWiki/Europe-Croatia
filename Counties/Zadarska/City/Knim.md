@@ -1,5 +1,5 @@
 ﻿---
-location: [44.03,16.2]
+location: [44.03,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.2]
-[geo-lat::44.03]
-[name::Knim]
-[State::]
-[Country[[../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.2] 
+[geo-lat::44.03] 
+[name::Knim] 
+State ::  
+Country :: [[../../../../../Europe~South/Yugoslavia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Knim
-coordinates: [[Knim]]
-markerFile: [[Knim]]
+coordinates: [[Knim]] 
+markerFile: [[Knim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

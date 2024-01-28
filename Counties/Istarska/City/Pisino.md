@@ -1,5 +1,5 @@
 ﻿---
-location: [45.23,13.77]
+location: [45.23,13.77] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.77]
-[geo-lat::45.23]
-[name::Pazin]
-[State::]
-[Country :: [[Croatia]] ]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.77] 
+[geo-lat::45.23] 
+[name::Pazin] 
+State ::  
+Country :: [[Croatia]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pisino
-coordinates: [[Pisino]]
-markerFile: [[Pisino]]
+coordinates: [[Pisino]] 
+markerFile: [[Pisino]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

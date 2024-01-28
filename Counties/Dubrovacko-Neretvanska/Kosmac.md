@@ -1,5 +1,5 @@
 ---
-location: [42.28,18.88]
+location: [42.28,18.88] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.88]
-[geo-lat::42.28]
-[name::Kosmac]
-[State::]
-[Country::[[../../../../Europe~South/Yugoslavia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.88] 
+[geo-lat::42.28] 
+[name::Kosmac] 
+State ::  
+Country :: [[../../../../Europe~South/Yugoslavia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kosmac
-coordinates: [[Kosmac]]
-markerFile: [[Kosmac]]
+coordinates: [[Kosmac]] 
+markerFile: [[Kosmac]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

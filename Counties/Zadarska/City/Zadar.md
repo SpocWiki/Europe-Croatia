@@ -1,5 +1,5 @@
 ---
-location: [44.12,15.23]
+location: [44.12,15.23] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,28 +12,28 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.23]
-[geo-lat::44.12]
-[name::Zadar]
-[name-it::Zara]
-[State::]
-[Country::[[Russia]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.23] 
+[geo-lat::44.12] 
+[name::Zadar] 
+[name-it::Zara] 
+State ::  
+Country :: [[Russia]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zara
-coordinates: [[Zara]]
-markerFile: [[Zara]]
+coordinates: [[Zara]] 
+markerFile: [[Zara]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Zadar|Zadar]]] 
+- [[Zadar|Zadar]]  
 - [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Zara.internal|Zara.internal]] 
 - [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Zara.protect|Zara.protect]] 
 - [[../../../../../../_private/geo/Continent/Europe/Russia/City/Zara.private|Zara.private]] 

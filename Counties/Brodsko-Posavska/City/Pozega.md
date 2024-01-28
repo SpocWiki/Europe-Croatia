@@ -1,5 +1,5 @@
-﻿---
-location: [45.37,17.72]
+---
+location: [45.37,17.72] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.72]
-[geo-lat::45.37]
-[name::Pozega]
-[State::]
-[Country[[../../../../../Europe~South/Yugoslavia]]]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.72] 
+[geo-lat::45.37] 
+[name::Pozega] 
+State :: 
+Country :: [[../../../../Croatia]] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pozega
-coordinates: [[Pozega]]
-markerFile: [[Pozega]]
+coordinates: [[Pozega]] 
+markerFile: [[Pozega]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
