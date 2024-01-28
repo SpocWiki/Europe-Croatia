@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 45.8
 - 15.97
@@ -112,8 +112,8 @@ id: Croatia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Croatia//
-markerFolder: ./Croatia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Croatia] 
