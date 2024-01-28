@@ -14,9 +14,9 @@ confidential: public
 ---
 [geo-lon::13.52]
 [geo-lat::45.43]
-[name::Umago]
+[name::Umag]
 [State::]
-[Country::[[Italy]]]
+[Country :: [[Croatia]] ]
 [StateId::]
 [Population::]
 [Unknown::]

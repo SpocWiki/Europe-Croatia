@@ -14,9 +14,9 @@ confidential: public
 ---
 [geo-lon::13.65]
 [geo-lat::45.08]
-[name::Rovigno]
+[name::Rovinj]
 [State::]
-[Country::[[Italy]]]
+[Country :: [[Croatia]] ]
 [StateId::]
 [Population::]
 [Unknown::]

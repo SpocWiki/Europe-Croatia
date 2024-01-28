@@ -14,9 +14,9 @@ confidential: public
 ---
 [geo-lon::13.85]
 [geo-lat::44.87]
-[name::Pola]
+[name::Pula]
 [State::]
-[Country::[[Italy]]]
+[Country :: [[Croatia]] ]
 [StateId::]
 [Population::]
 [Unknown::]

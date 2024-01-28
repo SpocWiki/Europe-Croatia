@@ -14,9 +14,9 @@ confidential: public
 ---
 [geo-lon::13.77]
 [geo-lat::45.23]
-[name::Pisino]
+[name::Pazin]
 [State::]
-[Country::[[Italy]]]
+[Country :: [[Croatia]] ]
 [StateId::]
 [Population::]
 [Unknown::]

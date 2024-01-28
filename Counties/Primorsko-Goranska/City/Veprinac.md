@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::45.33]
 [name::Veprinac]
 [State::]
-[Country::[[Italy]]]
+[Country :: [[Croatia]] ]
 [StateId::]
 [Population::]
 [Unknown::]

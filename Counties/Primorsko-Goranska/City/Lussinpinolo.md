@@ -14,28 +14,28 @@ confidential: public
 ---
 [geo-lon::14.47]
 [geo-lat::44.53]
-[name::Lussinpinolo]
+[name::Mali Lošinj]
 [State::]
-[Country::[[Italy]]]
+[Country:: [ [[Croatia]] ] ]
 [StateId::]
 [Population::]
 [Unknown::]
 
 
 ```leaflet
-id: Lussinpinolo
-coordinates: [[Lussinpinolo]]
-markerFile: [[Lussinpinolo]]
+id: Lussinpiccolo
+coordinates: [[Lussinpiccolo]]
+markerFile: [[Lussinpiccolo]]
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Lussinpinolo|Lussinpinolo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lussinpinolo.public|Lussinpinolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussinpinolo.internal|Lussinpinolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussinpinolo.protect|Lussinpinolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lussinpinolo.private|Lussinpinolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussinpinolo.personal|Lussinpinolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussinpinolo.secret|Lussinpinolo.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Lussinpiccolo|Lussinpiccolo]] 
+- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lussinpiccolo.public|Lussinpiccolo.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussinpiccolo.internal|Lussinpiccolo.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussinpiccolo.protect|Lussinpiccolo.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lussinpiccolo.private|Lussinpiccolo.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussinpiccolo.personal|Lussinpiccolo.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussinpiccolo.secret|Lussinpiccolo.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::45.28]
 [name::Monte Maggiore]
 [State::]
-[Country::[[Italy]]]
+[Country :: [ [[Croatia]] ] ]
 [StateId::]
 [Population::]
 [Unknown::]
