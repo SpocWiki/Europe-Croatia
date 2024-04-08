@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.72] 
-[geo-lat::45.37] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.72] 
+[has_place_latitude::45.37] 
 [name::Pozega] 
 State :: 
 Country :: [[../../../../Croatia]] 

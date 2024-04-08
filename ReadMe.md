@@ -128,8 +128,10 @@ Capital :: [[Zagreb]]
 ![[Flag_of_Croatia.svg|350]] 
 [Alcohol-l::15.1] 
 [Language-Id::] 
-[geo-lon::15.97] 
-[geo-lat::45.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.97] 
+[has_place_latitude::45.8] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.47] 
-[geo-lat::44.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.47] 
+[has_place_latitude::44.53] 
 [name::Mali Lošinj] 
 State ::  
 Country :: [ [[Croatia]] ] 

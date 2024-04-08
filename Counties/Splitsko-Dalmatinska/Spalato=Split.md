@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.45] 
-[geo-lat::43.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.45] 
+[has_place_latitude::43.5] 
 [name::Spalato=Split] 
 State ::  
 Country :: [[../../../../Europe~South/Yugoslavia]]  

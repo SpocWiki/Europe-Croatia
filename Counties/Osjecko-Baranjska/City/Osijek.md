@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.7] 
-[geo-lat::45.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.7] 
+[has_place_latitude::45.55] 
 [name::Osijek] 
 State ::  
 Country :: [[../../../../Croatia]] ] 

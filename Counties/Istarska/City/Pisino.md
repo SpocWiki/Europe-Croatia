@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.77] 
-[geo-lat::45.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.77] 
+[has_place_latitude::45.23] 
 [name::Pazin] 
 State ::  
 Country :: [[Croatia]] ] 
