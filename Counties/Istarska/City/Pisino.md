@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.23,13.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Pisino|Pisino]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pisino.public|Pisino.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pisino.internal|Pisino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pisino.protect|Pisino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pisino.private|Pisino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pisino.personal|Pisino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pisino.secret|Pisino.secret]] 
+
+### [Pisino.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.public.md) 
+
+### [Pisino.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.internal.md) 
+
+### [Pisino.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.protect.md) 
+
+### [Pisino.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.private.md) 
+
+### [Pisino.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.personal.md) 
+
+### [Pisino.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.secret.md)
+

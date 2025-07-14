@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.13,14.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Novi|Novi]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Novi.public|Novi.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi.internal|Novi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi.protect|Novi.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi.private|Novi.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi.personal|Novi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi.secret|Novi.secret]] 
+
+### [Novi.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.public.md) 
+
+### [Novi.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.internal.md) 
+
+### [Novi.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.protect.md) 
+
+### [Novi.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.private.md) 
+
+### [Novi.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.personal.md) 
+
+### [Novi.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityNovi.secret.md)
+

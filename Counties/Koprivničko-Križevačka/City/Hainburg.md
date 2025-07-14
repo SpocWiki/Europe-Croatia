@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.15,16.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Hainburg|Hainburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Hainburg.public|Hainburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Hainburg.internal|Hainburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Hainburg.protect|Hainburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Hainburg.private|Hainburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Hainburg.personal|Hainburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Hainburg.secret|Hainburg.secret]] 
+
+### [Hainburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.public.md) 
+
+### [Hainburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.internal.md) 
+
+### [Hainburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.protect.md) 
+
+### [Hainburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.private.md) 
+
+### [Hainburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.personal.md) 
+
+### [Hainburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.secret.md)
+

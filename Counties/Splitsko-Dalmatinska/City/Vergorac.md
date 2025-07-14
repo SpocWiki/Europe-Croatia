@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.2,17.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Vergorac|Vergorac]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Vergorac.public|Vergorac.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vergorac.internal|Vergorac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vergorac.protect|Vergorac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vergorac.private|Vergorac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vergorac.personal|Vergorac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vergorac.secret|Vergorac.secret]] 
+
+### [Vergorac.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.public.md) 
+
+### [Vergorac.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.internal.md) 
+
+### [Vergorac.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.protect.md) 
+
+### [Vergorac.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.private.md) 
+
+### [Vergorac.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.personal.md) 
+
+### [Vergorac.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CityVergorac.secret.md)
+

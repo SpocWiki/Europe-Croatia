@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.82,15.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Agram|Agram]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Agram.public|Agram.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Agram.internal|Agram.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Agram.protect|Agram.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Agram.private|Agram.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Agram.personal|Agram.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Agram.secret|Agram.secret]] 
+
+### [Agram.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.public.md) 
+
+### [Agram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.internal.md) 
+
+### [Agram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.protect.md) 
+
+### [Agram.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.private.md) 
+
+### [Agram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.personal.md) 
+
+### [Agram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.secret.md)
+

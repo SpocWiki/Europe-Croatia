@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Kosmac|Kosmac]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kosmac.public|Kosmac.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kosmac.internal|Kosmac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kosmac.protect|Kosmac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kosmac.private|Kosmac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kosmac.personal|Kosmac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kosmac.secret|Kosmac.secret]] 
+
+### [Kosmac.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.public.md) 
+
+### [Kosmac.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.internal.md) 
+
+### [Kosmac.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.protect.md) 
+
+### [Kosmac.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.private.md) 
+
+### [Kosmac.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.personal.md) 
+
+### [Kosmac.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-NeretvanskaKosmac.secret.md)
+

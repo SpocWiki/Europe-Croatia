@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Osijek|Osijek]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Osijek.public|Osijek.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Osijek.internal|Osijek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Osijek.protect|Osijek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Osijek.private|Osijek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Osijek.personal|Osijek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Osijek.secret|Osijek.secret]] 
+
+### [Osijek.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.public.md) 
+
+### [Osijek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.internal.md) 
+
+### [Osijek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.protect.md) 
+
+### [Osijek.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.private.md) 
+
+### [Osijek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.personal.md) 
+
+### [Osijek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Osjecko-Baranjska\CityOsijek.secret.md)
+

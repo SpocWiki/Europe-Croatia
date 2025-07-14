@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.53,14.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Lussinpiccolo|Lussinpiccolo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Lussinpiccolo.public|Lussinpiccolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussinpiccolo.internal|Lussinpiccolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussinpiccolo.protect|Lussinpiccolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Lussinpiccolo.private|Lussinpiccolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussinpiccolo.personal|Lussinpiccolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussinpiccolo.secret|Lussinpiccolo.secret]] 
+
+### [Lussinpinolo.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.public.md) 
+
+### [Lussinpinolo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.internal.md) 
+
+### [Lussinpinolo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.protect.md) 
+
+### [Lussinpinolo.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.private.md) 
+
+### [Lussinpinolo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.personal.md) 
+
+### [Lussinpinolo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.secret.md)
+

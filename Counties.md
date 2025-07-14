@@ -40,11 +40,16 @@ markerFolder: ./Counties/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Croatia/Counties|Counties]] 
-- [[../../../../../_public/geo/Continent/Europe/Croatia/Counties.public|Counties.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Croatia/Counties.internal|Counties.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Croatia/Counties.protect|Counties.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Croatia/Counties.private|Counties.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Croatia/Counties.personal|Counties.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Croatia/Counties.secret|Counties.secret]] 
+
+### [Counties.public](/_public/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.public.md) 
+
+### [Counties.internal](/_internal/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.internal.md) 
+
+### [Counties.protect](/_protect/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.protect.md) 
+
+### [Counties.private](/_private/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.private.md) 
+
+### [Counties.personal](/_personal/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.personal.md) 
+
+### [Counties.secret](/_secret/\Earth\Continent\Europe\Europe~Central\CroatiaCounties.secret.md)
 

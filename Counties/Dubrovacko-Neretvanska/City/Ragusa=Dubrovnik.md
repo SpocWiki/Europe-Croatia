@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.65,18.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik|Ragusa=Dubrovnik]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.public|Ragusa=Dubrovnik.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.internal|Ragusa=Dubrovnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.protect|Ragusa=Dubrovnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.private|Ragusa=Dubrovnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.personal|Ragusa=Dubrovnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.secret|Ragusa=Dubrovnik.secret]] 
+
+### [Ragusa=Dubrovnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.public.md) 
+
+### [Ragusa=Dubrovnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.internal.md) 
+
+### [Ragusa=Dubrovnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.protect.md) 
+
+### [Ragusa=Dubrovnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.private.md) 
+
+### [Ragusa=Dubrovnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.personal.md) 
+
+### [Ragusa=Dubrovnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.secret.md)
+

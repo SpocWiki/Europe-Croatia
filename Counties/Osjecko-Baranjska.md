@@ -40,11 +40,16 @@ markerFolder: ./Osjecko-Baranjska/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska|Osjecko-Baranjska]] 
-- [[../../../../../../_public/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.public|Osjecko-Baranjska.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.internal|Osjecko-Baranjska.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.protect|Osjecko-Baranjska.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.private|Osjecko-Baranjska.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.personal|Osjecko-Baranjska.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/Counties/Osjecko-Baranjska.secret|Osjecko-Baranjska.secret]] 
+
+### [Osjecko-Baranjska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.public.md) 
+
+### [Osjecko-Baranjska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.internal.md) 
+
+### [Osjecko-Baranjska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.protect.md) 
+
+### [Osjecko-Baranjska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.private.md) 
+
+### [Osjecko-Baranjska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.personal.md) 
+
+### [Osjecko-Baranjska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesOsjecko-Baranjska.secret.md)
 

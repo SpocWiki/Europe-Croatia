@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.87,13.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Pola|Pola]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Pola.public|Pola.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Pola.internal|Pola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Pola.protect|Pola.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Pola.private|Pola.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Pola.personal|Pola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Pola.secret|Pola.secret]] 
+
+### [Pola.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.public.md) 
+
+### [Pola.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.internal.md) 
+
+### [Pola.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.protect.md) 
+
+### [Pola.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.private.md) 
+
+### [Pola.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.personal.md) 
+
+### [Pola.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.secret.md)
+

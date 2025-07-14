@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.08,13.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Rovigno|Rovigno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Rovigno.public|Rovigno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovigno.internal|Rovigno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovigno.protect|Rovigno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Rovigno.private|Rovigno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovigno.personal|Rovigno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovigno.secret|Rovigno.secret]] 
+
+### [Rovigno.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.public.md) 
+
+### [Rovigno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.internal.md) 
+
+### [Rovigno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.protect.md) 
+
+### [Rovigno.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.private.md) 
+
+### [Rovigno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.personal.md) 
+
+### [Rovigno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.secret.md)
+

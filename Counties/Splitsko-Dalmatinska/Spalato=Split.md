@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Spalato=Split|Spalato=Split]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.public|Spalato=Split.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.internal|Spalato=Split.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.protect|Spalato=Split.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.private|Spalato=Split.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.personal|Spalato=Split.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.secret|Spalato=Split.secret]] 
+
+### [Spalato=Split.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.public.md) 
+
+### [Spalato=Split.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.internal.md) 
+
+### [Spalato=Split.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.protect.md) 
+
+### [Spalato=Split.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.private.md) 
+
+### [Spalato=Split.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.personal.md) 
+
+### [Spalato=Split.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.secret.md)
+

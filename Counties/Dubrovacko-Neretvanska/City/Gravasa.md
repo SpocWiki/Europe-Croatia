@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.67,18.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Gravasa|Gravasa]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Gravasa.public|Gravasa.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Gravasa.internal|Gravasa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Gravasa.protect|Gravasa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Gravasa.private|Gravasa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Gravasa.personal|Gravasa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Gravasa.secret|Gravasa.secret]] 
+
+### [Gravasa.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.public.md) 
+
+### [Gravasa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.internal.md) 
+
+### [Gravasa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.protect.md) 
+
+### [Gravasa.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.private.md) 
+
+### [Gravasa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.personal.md) 
+
+### [Gravasa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityGravasa.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.83,17.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Stagno|Stagno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stagno.public|Stagno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stagno.internal|Stagno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stagno.protect|Stagno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stagno.private|Stagno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stagno.personal|Stagno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stagno.secret|Stagno.secret]] 
+
+### [Stagno.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.public.md) 
+
+### [Stagno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.internal.md) 
+
+### [Stagno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.protect.md) 
+
+### [Stagno.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.private.md) 
+
+### [Stagno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.personal.md) 
+
+### [Stagno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.secret.md)
+

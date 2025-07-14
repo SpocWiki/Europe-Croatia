@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.28,14.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Monte_Maggiore|Monte_Maggiore]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Monte_Maggiore.public|Monte_Maggiore.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Monte_Maggiore.internal|Monte_Maggiore.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Monte_Maggiore.protect|Monte_Maggiore.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Monte_Maggiore.private|Monte_Maggiore.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Monte_Maggiore.personal|Monte_Maggiore.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Monte_Maggiore.secret|Monte_Maggiore.secret]] 
+
+### [Monte_Maggiore.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.public.md) 
+
+### [Monte_Maggiore.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.internal.md) 
+
+### [Monte_Maggiore.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.protect.md) 
+
+### [Monte_Maggiore.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.private.md) 
+
+### [Monte_Maggiore.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.personal.md) 
+
+### [Monte_Maggiore.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityMonte_Maggiore.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.42,16.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Hungary/City/Tolna|Tolna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Tolna.public|Tolna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tolna.internal|Tolna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tolna.protect|Tolna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Tolna.private|Tolna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tolna.personal|Tolna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tolna.secret|Tolna.secret]] 
+
+### [Tolna.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.public.md) 
+
+### [Tolna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.internal.md) 
+
+### [Tolna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.protect.md) 
+
+### [Tolna.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.private.md) 
+
+### [Tolna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.personal.md) 
+
+### [Tolna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.secret.md)
+

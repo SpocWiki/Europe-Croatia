@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.3,14.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Fuzine|Fuzine]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Fuzine.public|Fuzine.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Fuzine.internal|Fuzine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Fuzine.protect|Fuzine.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Fuzine.private|Fuzine.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Fuzine.personal|Fuzine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Fuzine.secret|Fuzine.secret]] 
+
+### [Fuzine.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.public.md) 
+
+### [Fuzine.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.internal.md) 
+
+### [Fuzine.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.protect.md) 
+
+### [Fuzine.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.private.md) 
+
+### [Fuzine.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.personal.md) 
+
+### [Fuzine.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFuzine.secret.md)
+

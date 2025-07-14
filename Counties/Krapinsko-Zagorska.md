@@ -40,11 +40,16 @@ markerFolder: ./Krapinsko-Zagorska/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska|Krapinsko-Zagorska]] 
-- [[../../../../../../_public/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.public|Krapinsko-Zagorska.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.internal|Krapinsko-Zagorska.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.protect|Krapinsko-Zagorska.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.private|Krapinsko-Zagorska.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.personal|Krapinsko-Zagorska.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/Counties/Krapinsko-Zagorska.secret|Krapinsko-Zagorska.secret]] 
+
+### [Krapinsko-Zagorska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.public.md) 
+
+### [Krapinsko-Zagorska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.internal.md) 
+
+### [Krapinsko-Zagorska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.protect.md) 
+
+### [Krapinsko-Zagorska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.private.md) 
+
+### [Krapinsko-Zagorska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.personal.md) 
+
+### [Krapinsko-Zagorska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKrapinsko-Zagorska.secret.md)
 

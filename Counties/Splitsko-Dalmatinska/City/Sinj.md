@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.7,16.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Sinj|Sinj]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sinj.public|Sinj.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sinj.internal|Sinj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sinj.protect|Sinj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sinj.private|Sinj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sinj.personal|Sinj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sinj.secret|Sinj.secret]] 
+
+### [Sinj.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.public.md) 
+
+### [Sinj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.internal.md) 
+
+### [Sinj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.protect.md) 
+
+### [Sinj.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.private.md) 
+
+### [Sinj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.personal.md) 
+
+### [Sinj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [45.33,14.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Italy/City/Veprinac|Veprinac]] 
-- [[../../../../../../_public/geo/Continent/Europe/Italy/City/Veprinac.public|Veprinac.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Italy/City/Veprinac.internal|Veprinac.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Italy/City/Veprinac.protect|Veprinac.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Italy/City/Veprinac.private|Veprinac.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Italy/City/Veprinac.personal|Veprinac.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Italy/City/Veprinac.secret|Veprinac.secret]] 
+
+### [Veprinac.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.public.md) 
+
+### [Veprinac.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.internal.md) 
+
+### [Veprinac.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.protect.md) 
+
+### [Veprinac.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.private.md) 
+
+### [Veprinac.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.personal.md) 
+
+### [Veprinac.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.secret.md)
+

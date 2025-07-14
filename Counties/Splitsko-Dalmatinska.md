@@ -40,11 +40,16 @@ markerFolder: ./Splitsko-Dalmatinska/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska|Splitsko-Dalmatinska]] 
-- [[../../../../../../_public/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.public|Splitsko-Dalmatinska.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.internal|Splitsko-Dalmatinska.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.protect|Splitsko-Dalmatinska.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.private|Splitsko-Dalmatinska.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.personal|Splitsko-Dalmatinska.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/Counties/Splitsko-Dalmatinska.secret|Splitsko-Dalmatinska.secret]] 
+
+### [Splitsko-Dalmatinska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.public.md) 
+
+### [Splitsko-Dalmatinska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.internal.md) 
+
+### [Splitsko-Dalmatinska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.protect.md) 
+
+### [Splitsko-Dalmatinska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.private.md) 
+
+### [Splitsko-Dalmatinska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.personal.md) 
+
+### [Splitsko-Dalmatinska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesSplitsko-Dalmatinska.secret.md)
 

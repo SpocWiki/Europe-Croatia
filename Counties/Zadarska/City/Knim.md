@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.03,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Knim|Knim]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Knim.public|Knim.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knim.internal|Knim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knim.protect|Knim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knim.private|Knim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knim.personal|Knim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knim.secret|Knim.secret]] 
+
+### [Knim.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.public.md) 
+
+### [Knim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.internal.md) 
+
+### [Knim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.protect.md) 
+
+### [Knim.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.private.md) 
+
+### [Knim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.personal.md) 
+
+### [Knim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.secret.md)
+

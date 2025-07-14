@@ -132,12 +132,17 @@ Capital :: [[Zagreb]]
 [has_place_latitude::45.8] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Croatia|Croatia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.75,15.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik|Sebenico=Sibenik]] 
-- [[../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.public|Sebenico=Sibenik.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.internal|Sebenico=Sibenik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.protect|Sebenico=Sibenik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.private|Sebenico=Sibenik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.personal|Sebenico=Sibenik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sebenico=Sibenik.secret|Sebenico=Sibenik.secret]] 
+
+### [Sebenico=Sibenik.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.public.md) 
+
+### [Sebenico=Sibenik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.internal.md) 
+
+### [Sebenico=Sibenik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.protect.md) 
+
+### [Sebenico=Sibenik.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.private.md) 
+
+### [Sebenico=Sibenik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.personal.md) 
+
+### [Sebenico=Sibenik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Šibensko-Kninska/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska|Šibensko-Kninska]] 
-- [[../../../../../../_public/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.public|Šibensko-Kninska.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.internal|Šibensko-Kninska.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.protect|Šibensko-Kninska.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.private|Šibensko-Kninska.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.personal|Šibensko-Kninska.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/Counties/Šibensko-Kninska.secret|Šibensko-Kninska.secret]] 
+
+### [Šibensko-Kninska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.public.md) 
+
+### [Šibensko-Kninska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.internal.md) 
+
+### [Šibensko-Kninska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.protect.md) 
+
+### [Šibensko-Kninska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.private.md) 
+
+### [Šibensko-Kninska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.personal.md) 
+
+### [Šibensko-Kninska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesŠibensko-Kninska.secret.md)
 

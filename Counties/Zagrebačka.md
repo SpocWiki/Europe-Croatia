@@ -40,11 +40,16 @@ markerFolder: ./Zagrebacka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Croatia/Counties/Zagrebacka|Zagrebacka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Croatia/Counties/Zagrebacka.public|Zagrebacka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.internal|Zagrebacka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Croatia/Counties/Zagrebacka.protect|Zagrebacka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Croatia/Counties/Zagrebacka.private|Zagrebacka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Croatia/Counties/Zagrebacka.personal|Zagrebacka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Croatia/Counties/Zagrebacka.secret|Zagrebacka.secret]] 
+
+### [Zagrebačka.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.public.md) 
+
+### [Zagrebačka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.internal.md) 
+
+### [Zagrebačka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.protect.md) 
+
+### [Zagrebačka.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.private.md) 
+
+### [Zagrebačka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.personal.md) 
+
+### [Zagrebačka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesZagrebačka.secret.md)
 
