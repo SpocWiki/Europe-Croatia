@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spalato=Split.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.public.md) 
+### [Spalato=Split](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.md) 
 
-### [Spalato=Split.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.internal.md) 
+### [Spalato=Split.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.public.md) 
 
-### [Spalato=Split.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.protect.md) 
+### [Spalato=Split.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.internal.md) 
 
-### [Spalato=Split.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.private.md) 
+### [Spalato=Split.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.protect.md) 
 
-### [Spalato=Split.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.personal.md) 
+### [Spalato=Split.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.private.md) 
 
-### [Spalato=Split.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-DalmatinskaSpalato=Split.secret.md)
+### [Spalato=Split.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.personal.md) 
+
+### [Spalato=Split.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.secret.md)
 

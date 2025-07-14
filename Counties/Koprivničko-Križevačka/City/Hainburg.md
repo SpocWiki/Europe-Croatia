@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hainburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.public.md) 
+### [Hainburg](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.md) 
 
-### [Hainburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.internal.md) 
+### [Hainburg.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.public.md) 
 
-### [Hainburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.protect.md) 
+### [Hainburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.internal.md) 
 
-### [Hainburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.private.md) 
+### [Hainburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.protect.md) 
 
-### [Hainburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.personal.md) 
+### [Hainburg.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.private.md) 
 
-### [Hainburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Koprivničko-Križevačka\CityHainburg.secret.md)
+### [Hainburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.personal.md) 
+
+### [Hainburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.secret.md)
 

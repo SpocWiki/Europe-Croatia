@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pisino.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.public.md) 
+### [Pisino](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.md) 
 
-### [Pisino.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.internal.md) 
+### [Pisino.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.public.md) 
 
-### [Pisino.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.protect.md) 
+### [Pisino.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.internal.md) 
 
-### [Pisino.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.private.md) 
+### [Pisino.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.protect.md) 
 
-### [Pisino.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.personal.md) 
+### [Pisino.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.private.md) 
 
-### [Pisino.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPisino.secret.md)
+### [Pisino.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.personal.md) 
+
+### [Pisino.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pisino.secret.md)
 

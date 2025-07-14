@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovigno.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.public.md) 
+### [Rovigno](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.md) 
 
-### [Rovigno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.internal.md) 
+### [Rovigno.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.public.md) 
 
-### [Rovigno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.protect.md) 
+### [Rovigno.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.internal.md) 
 
-### [Rovigno.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.private.md) 
+### [Rovigno.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.protect.md) 
 
-### [Rovigno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.personal.md) 
+### [Rovigno.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.private.md) 
 
-### [Rovigno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityRovigno.secret.md)
+### [Rovigno.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.personal.md) 
+
+### [Rovigno.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Rovigno.secret.md)
 

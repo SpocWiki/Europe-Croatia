@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fiume.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.public.md) 
+### [Fiume](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.md) 
 
-### [Fiume.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.internal.md) 
+### [Fiume.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.public.md) 
 
-### [Fiume.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.protect.md) 
+### [Fiume.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.internal.md) 
 
-### [Fiume.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.private.md) 
+### [Fiume.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.protect.md) 
 
-### [Fiume.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.personal.md) 
+### [Fiume.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.private.md) 
 
-### [Fiume.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityFiume.secret.md)
+### [Fiume.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.personal.md) 
+
+### [Fiume.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fiume.secret.md)
 

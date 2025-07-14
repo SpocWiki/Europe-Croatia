@@ -41,15 +41,17 @@ markerFolder: ./Brodsko-Posavska/
 
 ## Confidential Links & Embeds: 
 
-### [Brodsko-Posavska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.public.md) 
+### [Brodsko-Posavska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.md) 
 
-### [Brodsko-Posavska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.internal.md) 
+### [Brodsko-Posavska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.public.md) 
 
-### [Brodsko-Posavska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.protect.md) 
+### [Brodsko-Posavska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.internal.md) 
 
-### [Brodsko-Posavska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.private.md) 
+### [Brodsko-Posavska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.protect.md) 
 
-### [Brodsko-Posavska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.personal.md) 
+### [Brodsko-Posavska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.private.md) 
 
-### [Brodsko-Posavska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesBrodsko-Posavska.secret.md)
+### [Brodsko-Posavska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.personal.md) 
+
+### [Brodsko-Posavska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska.secret.md)
 

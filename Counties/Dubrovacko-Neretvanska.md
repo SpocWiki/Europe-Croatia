@@ -41,15 +41,17 @@ markerFolder: ./Dubrovacko-Neretvanska/
 
 ## Confidential Links & Embeds: 
 
-### [Dubrovacko-Neretvanska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.public.md) 
+### [Dubrovacko-Neretvanska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.md) 
 
-### [Dubrovacko-Neretvanska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.internal.md) 
+### [Dubrovacko-Neretvanska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.public.md) 
 
-### [Dubrovacko-Neretvanska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.protect.md) 
+### [Dubrovacko-Neretvanska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.internal.md) 
 
-### [Dubrovacko-Neretvanska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.private.md) 
+### [Dubrovacko-Neretvanska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.protect.md) 
 
-### [Dubrovacko-Neretvanska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.personal.md) 
+### [Dubrovacko-Neretvanska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.private.md) 
 
-### [Dubrovacko-Neretvanska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesDubrovacko-Neretvanska.secret.md)
+### [Dubrovacko-Neretvanska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.personal.md) 
+
+### [Dubrovacko-Neretvanska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska.secret.md)
 

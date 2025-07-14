@@ -41,15 +41,17 @@ markerFolder: ./Karlovacka/
 
 ## Confidential Links & Embeds: 
 
-### [Karlovacka.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.public.md) 
+### [Karlovacka](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.md) 
 
-### [Karlovacka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.internal.md) 
+### [Karlovacka.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.public.md) 
 
-### [Karlovacka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.protect.md) 
+### [Karlovacka.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.internal.md) 
 
-### [Karlovacka.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.private.md) 
+### [Karlovacka.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.protect.md) 
 
-### [Karlovacka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.personal.md) 
+### [Karlovacka.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.private.md) 
 
-### [Karlovacka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesKarlovacka.secret.md)
+### [Karlovacka.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.personal.md) 
+
+### [Karlovacka.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Karlovacka.secret.md)
 

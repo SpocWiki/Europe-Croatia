@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Veprinac.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.public.md) 
+### [Veprinac](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.md) 
 
-### [Veprinac.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.internal.md) 
+### [Veprinac.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.public.md) 
 
-### [Veprinac.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.protect.md) 
+### [Veprinac.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.internal.md) 
 
-### [Veprinac.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.private.md) 
+### [Veprinac.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.protect.md) 
 
-### [Veprinac.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.personal.md) 
+### [Veprinac.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.private.md) 
 
-### [Veprinac.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityVeprinac.secret.md)
+### [Veprinac.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.personal.md) 
+
+### [Veprinac.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Veprinac.secret.md)
 

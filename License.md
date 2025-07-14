@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\CroatiaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/License.secret.md)
 

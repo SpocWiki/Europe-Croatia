@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sinj.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.public.md) 
+### [Sinj](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.md) 
 
-### [Sinj.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.internal.md) 
+### [Sinj.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.public.md) 
 
-### [Sinj.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.protect.md) 
+### [Sinj.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.internal.md) 
 
-### [Sinj.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.private.md) 
+### [Sinj.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.protect.md) 
 
-### [Sinj.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.personal.md) 
+### [Sinj.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.private.md) 
 
-### [Sinj.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Splitsko-Dalmatinska\CitySinj.secret.md)
+### [Sinj.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.personal.md) 
+
+### [Sinj.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Sinj.secret.md)
 

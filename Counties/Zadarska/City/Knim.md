@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knim.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.public.md) 
+### [Knim](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.md) 
 
-### [Knim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.internal.md) 
+### [Knim.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.public.md) 
 
-### [Knim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.protect.md) 
+### [Knim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.internal.md) 
 
-### [Knim.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.private.md) 
+### [Knim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.protect.md) 
 
-### [Knim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.personal.md) 
+### [Knim.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.private.md) 
 
-### [Knim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityKnim.secret.md)
+### [Knim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.personal.md) 
+
+### [Knim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Knim.secret.md)
 

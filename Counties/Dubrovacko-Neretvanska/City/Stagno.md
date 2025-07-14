@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stagno.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.public.md) 
+### [Stagno](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.md) 
 
-### [Stagno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.internal.md) 
+### [Stagno.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.public.md) 
 
-### [Stagno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.protect.md) 
+### [Stagno.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.internal.md) 
 
-### [Stagno.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.private.md) 
+### [Stagno.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.protect.md) 
 
-### [Stagno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.personal.md) 
+### [Stagno.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.private.md) 
 
-### [Stagno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityStagno.secret.md)
+### [Stagno.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.personal.md) 
+
+### [Stagno.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.secret.md)
 

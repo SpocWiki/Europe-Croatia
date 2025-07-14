@@ -41,15 +41,17 @@ markerFolder: ./Varaždinska/
 
 ## Confidential Links & Embeds: 
 
-### [Varaždinska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.public.md) 
+### [Varaždinska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.md) 
 
-### [Varaždinska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.internal.md) 
+### [Varaždinska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.public.md) 
 
-### [Varaždinska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.protect.md) 
+### [Varaždinska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.internal.md) 
 
-### [Varaždinska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.private.md) 
+### [Varaždinska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.protect.md) 
 
-### [Varaždinska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.personal.md) 
+### [Varaždinska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.private.md) 
 
-### [Varaždinska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesVaraždinska.secret.md)
+### [Varaždinska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.personal.md) 
+
+### [Varaždinska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Varaždinska.secret.md)
 

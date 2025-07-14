@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dubrovnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.public.md) 
+### [Dubrovnik](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.md) 
 
-### [Dubrovnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.internal.md) 
+### [Dubrovnik.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.public.md) 
 
-### [Dubrovnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.protect.md) 
+### [Dubrovnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.internal.md) 
 
-### [Dubrovnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.private.md) 
+### [Dubrovnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.protect.md) 
 
-### [Dubrovnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.personal.md) 
+### [Dubrovnik.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.private.md) 
 
-### [Dubrovnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityDubrovnik.secret.md)
+### [Dubrovnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.personal.md) 
+
+### [Dubrovnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.secret.md)
 

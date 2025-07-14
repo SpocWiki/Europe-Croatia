@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pola.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.public.md) 
+### [Pola](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.md) 
 
-### [Pola.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.internal.md) 
+### [Pola.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.public.md) 
 
-### [Pola.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.protect.md) 
+### [Pola.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.internal.md) 
 
-### [Pola.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.private.md) 
+### [Pola.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.protect.md) 
 
-### [Pola.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.personal.md) 
+### [Pola.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.private.md) 
 
-### [Pola.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityPola.secret.md)
+### [Pola.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.personal.md) 
+
+### [Pola.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.secret.md)
 

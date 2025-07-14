@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ragusa=Dubrovnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.public.md) 
+### [Ragusa=Dubrovnik](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.md) 
 
-### [Ragusa=Dubrovnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.internal.md) 
+### [Ragusa=Dubrovnik.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.public.md) 
 
-### [Ragusa=Dubrovnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.protect.md) 
+### [Ragusa=Dubrovnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.internal.md) 
 
-### [Ragusa=Dubrovnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.private.md) 
+### [Ragusa=Dubrovnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.protect.md) 
 
-### [Ragusa=Dubrovnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.personal.md) 
+### [Ragusa=Dubrovnik.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.private.md) 
 
-### [Ragusa=Dubrovnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Dubrovacko-Neretvanska\CityRagusa=Dubrovnik.secret.md)
+### [Ragusa=Dubrovnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.personal.md) 
+
+### [Ragusa=Dubrovnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Ragusa=Dubrovnik.secret.md)
 

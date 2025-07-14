@@ -134,15 +134,17 @@ Capital :: [[Zagreb]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\CroatiaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/ReadMe.secret.md)
 

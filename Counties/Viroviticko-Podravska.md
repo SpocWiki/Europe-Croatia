@@ -41,15 +41,17 @@ markerFolder: ./Viroviticko-Podravska/
 
 ## Confidential Links & Embeds: 
 
-### [Viroviticko-Podravska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.public.md) 
+### [Viroviticko-Podravska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.md) 
 
-### [Viroviticko-Podravska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.internal.md) 
+### [Viroviticko-Podravska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.public.md) 
 
-### [Viroviticko-Podravska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.protect.md) 
+### [Viroviticko-Podravska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.internal.md) 
 
-### [Viroviticko-Podravska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.private.md) 
+### [Viroviticko-Podravska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.protect.md) 
 
-### [Viroviticko-Podravska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.personal.md) 
+### [Viroviticko-Podravska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.private.md) 
 
-### [Viroviticko-Podravska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesViroviticko-Podravska.secret.md)
+### [Viroviticko-Podravska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.personal.md) 
+
+### [Viroviticko-Podravska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.secret.md)
 

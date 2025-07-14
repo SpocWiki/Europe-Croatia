@@ -41,15 +41,17 @@ markerFolder: ./Istarska/
 
 ## Confidential Links & Embeds: 
 
-### [Istarska.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.public.md) 
+### [Istarska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.md) 
 
-### [Istarska.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.internal.md) 
+### [Istarska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.public.md) 
 
-### [Istarska.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.protect.md) 
+### [Istarska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.internal.md) 
 
-### [Istarska.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.private.md) 
+### [Istarska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.protect.md) 
 
-### [Istarska.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.personal.md) 
+### [Istarska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.private.md) 
 
-### [Istarska.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\CountiesIstarska.secret.md)
+### [Istarska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.personal.md) 
+
+### [Istarska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska.secret.md)
 

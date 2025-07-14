@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pozega.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.public.md) 
+### [Pozega](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.md) 
 
-### [Pozega.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.internal.md) 
+### [Pozega.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.public.md) 
 
-### [Pozega.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.protect.md) 
+### [Pozega.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.internal.md) 
 
-### [Pozega.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.private.md) 
+### [Pozega.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.protect.md) 
 
-### [Pozega.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.personal.md) 
+### [Pozega.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.private.md) 
 
-### [Pozega.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Brodsko-Posavska\CityPozega.secret.md)
+### [Pozega.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.personal.md) 
+
+### [Pozega.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Brodsko-Posavska/City/Pozega.secret.md)
 

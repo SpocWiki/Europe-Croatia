@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tolna.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.public.md) 
+### [Tolna](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.md) 
 
-### [Tolna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.internal.md) 
+### [Tolna.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.public.md) 
 
-### [Tolna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.protect.md) 
+### [Tolna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.internal.md) 
 
-### [Tolna.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.private.md) 
+### [Tolna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.protect.md) 
 
-### [Tolna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.personal.md) 
+### [Tolna.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.private.md) 
 
-### [Tolna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Medimurska\CityTolna.secret.md)
+### [Tolna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.personal.md) 
+
+### [Tolna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska/City/Tolna.secret.md)
 

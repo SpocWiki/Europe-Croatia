@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zagreb.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.public.md) 
+### [Zagreb](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.md) 
 
-### [Zagreb.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.internal.md) 
+### [Zagreb.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.public.md) 
 
-### [Zagreb.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.protect.md) 
+### [Zagreb.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.internal.md) 
 
-### [Zagreb.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.private.md) 
+### [Zagreb.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.protect.md) 
 
-### [Zagreb.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.personal.md) 
+### [Zagreb.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.private.md) 
 
-### [Zagreb.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityZagreb.secret.md)
+### [Zagreb.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.personal.md) 
+
+### [Zagreb.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.secret.md)
 

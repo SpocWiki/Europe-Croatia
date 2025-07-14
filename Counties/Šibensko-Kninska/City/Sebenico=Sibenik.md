@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sebenico=Sibenik.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.public.md) 
+### [Sebenico=Sibenik](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.md) 
 
-### [Sebenico=Sibenik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.internal.md) 
+### [Sebenico=Sibenik.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.public.md) 
 
-### [Sebenico=Sibenik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.protect.md) 
+### [Sebenico=Sibenik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.internal.md) 
 
-### [Sebenico=Sibenik.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.private.md) 
+### [Sebenico=Sibenik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.protect.md) 
 
-### [Sebenico=Sibenik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.personal.md) 
+### [Sebenico=Sibenik.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.private.md) 
 
-### [Sebenico=Sibenik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Šibensko-Kninska\CitySebenico=Sibenik.secret.md)
+### [Sebenico=Sibenik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.personal.md) 
+
+### [Sebenico=Sibenik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.secret.md)
 

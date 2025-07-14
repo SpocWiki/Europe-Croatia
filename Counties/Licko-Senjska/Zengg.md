@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zengg.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.public.md) 
+### [Zengg](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.md) 
 
-### [Zengg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.internal.md) 
+### [Zengg.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.public.md) 
 
-### [Zengg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.protect.md) 
+### [Zengg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.internal.md) 
 
-### [Zengg.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.private.md) 
+### [Zengg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.protect.md) 
 
-### [Zengg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.personal.md) 
+### [Zengg.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.private.md) 
 
-### [Zengg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Licko-SenjskaZengg.secret.md)
+### [Zengg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.personal.md) 
+
+### [Zengg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska/Zengg.secret.md)
 

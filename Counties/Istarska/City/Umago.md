@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Umago.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.public.md) 
+### [Umago](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.md) 
 
-### [Umago.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.internal.md) 
+### [Umago.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.public.md) 
 
-### [Umago.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.protect.md) 
+### [Umago.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.internal.md) 
 
-### [Umago.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.private.md) 
+### [Umago.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.protect.md) 
 
-### [Umago.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.personal.md) 
+### [Umago.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.private.md) 
 
-### [Umago.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Istarska\CityUmago.secret.md)
+### [Umago.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.personal.md) 
+
+### [Umago.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Umago.secret.md)
 

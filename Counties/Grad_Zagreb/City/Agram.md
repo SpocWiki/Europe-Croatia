@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agram.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.public.md) 
+### [Agram](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.md) 
 
-### [Agram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.internal.md) 
+### [Agram.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.public.md) 
 
-### [Agram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.protect.md) 
+### [Agram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.internal.md) 
 
-### [Agram.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.private.md) 
+### [Agram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.protect.md) 
 
-### [Agram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.personal.md) 
+### [Agram.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.private.md) 
 
-### [Agram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Grad_Zagreb\CityAgram.secret.md)
+### [Agram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.personal.md) 
+
+### [Agram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.secret.md)
 

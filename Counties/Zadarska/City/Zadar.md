@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zadar.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.public.md) 
+### [Zadar](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.md) 
 
-### [Zadar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.internal.md) 
+### [Zadar.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.public.md) 
 
-### [Zadar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.protect.md) 
+### [Zadar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.internal.md) 
 
-### [Zadar.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.private.md) 
+### [Zadar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.protect.md) 
 
-### [Zadar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.personal.md) 
+### [Zadar.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.private.md) 
 
-### [Zadar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Zadarska\CityZadar.secret.md)
+### [Zadar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.personal.md) 
+
+### [Zadar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska/City/Zadar.secret.md)
 

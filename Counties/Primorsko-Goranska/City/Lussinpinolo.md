@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lussinpinolo.public](/_public/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.public.md) 
+### [Lussinpinolo](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.md) 
 
-### [Lussinpinolo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.internal.md) 
+### [Lussinpinolo.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.public.md) 
 
-### [Lussinpinolo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.protect.md) 
+### [Lussinpinolo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.internal.md) 
 
-### [Lussinpinolo.private](/_private/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.private.md) 
+### [Lussinpinolo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.protect.md) 
 
-### [Lussinpinolo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.personal.md) 
+### [Lussinpinolo.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.private.md) 
 
-### [Lussinpinolo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Croatia\Counties\Primorsko-Goranska\CityLussinpinolo.secret.md)
+### [Lussinpinolo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.personal.md) 
+
+### [Lussinpinolo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.secret.md)
 
