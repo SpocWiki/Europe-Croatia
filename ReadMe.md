@@ -1,36 +1,37 @@
 ---
 location:
-- 45.8
-- 15.97
+  - 45.8
+  - 15.97
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Croatia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Croatia
-- Croacia
-- Croatie
-- كرواتيا
-- 克罗地亚
-- Хорватия
-- the Republic of Croatia
-- la República de Croacia
+  - Croatia
+  - Croacia
+  - Croatie
+  - كرواتيا
+  - 克罗地亚
+  - Хорватия
+  - the Republic of Croatia
+  - la República de Croacia
 Languages:
-- hr-HR
-- sr
+  - hr-HR
+  - sr
 ---
 
 
