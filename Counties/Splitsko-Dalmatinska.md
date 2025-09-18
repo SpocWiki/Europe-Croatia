@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Splitsko-Dalmatinska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Splitsko-Dalmatinska/
 markerFolder: ./Splitsko-Dalmatinska/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bjelovarska-Bilogorska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bjelovarska-Bilogorska/
 markerFolder: ./Bjelovarska-Bilogorska/

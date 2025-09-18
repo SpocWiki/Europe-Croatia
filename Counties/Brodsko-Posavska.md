@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Brodsko-Posavska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brodsko-Posavska/
 markerFolder: ./Brodsko-Posavska/

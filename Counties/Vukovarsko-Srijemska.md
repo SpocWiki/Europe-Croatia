@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vukovarsko-Srijemska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vukovarsko-Srijemska/
 markerFolder: ./Vukovarsko-Srijemska/

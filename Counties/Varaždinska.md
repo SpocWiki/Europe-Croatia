@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Varaždinska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Varaždinska/
 markerFolder: ./Varaždinska/

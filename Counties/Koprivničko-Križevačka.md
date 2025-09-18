@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Koprivničko-Križevačka
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Koprivničko-Križevačka/
 markerFolder: ./Koprivničko-Križevačka/

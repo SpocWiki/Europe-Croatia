@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Šibensko-Kninska
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Šibensko-Kninska/
 markerFolder: ./Šibensko-Kninska/
