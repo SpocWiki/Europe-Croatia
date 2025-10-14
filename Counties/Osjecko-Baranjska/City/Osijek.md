@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../Croatia]] ] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
