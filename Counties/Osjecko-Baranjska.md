@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Osjecko-Baranjska
 location:
   - 45.6
   - 18.6
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Osjecko-Baranjska
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Osjecko-Baranjska

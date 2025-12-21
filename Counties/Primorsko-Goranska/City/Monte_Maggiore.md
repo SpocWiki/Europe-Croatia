@@ -1,16 +1,20 @@
 ---
-location: [45.28,14.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Monte_Maggiore
+  - Monte Maggiore
+location:
+  - 45.28
+  - 14.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32570
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grad_Zagreb
+  - Grad Zagreb
 location:
   - 45.8
   - 16
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Grad_Zagreb
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Grad_Zagreb

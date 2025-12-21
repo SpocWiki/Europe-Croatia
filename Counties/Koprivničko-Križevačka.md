@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Koprivničko-Križevačka
 location:
   - 46.1
   - 16.8
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Koprivničko-Križevačka
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Koprivničko-Križevačka

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bjelovarska-Bilogorska
 location:
   - 45.8
   - 16.9
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bjelovarska-Bilogorska
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bjelovarska-Bilogorska

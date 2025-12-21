@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Viroviticko-Podravska
 location:
   - 45.7
   - 17.7
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Viroviticko-Podravska
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Viroviticko-Podravska

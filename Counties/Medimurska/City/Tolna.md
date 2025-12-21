@@ -1,16 +1,19 @@
 ---
-location: [46.42,16.45] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tolna
+location:
+  - 46.42
+  - 16.45
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34899
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

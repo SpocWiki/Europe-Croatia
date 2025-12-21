@@ -1,16 +1,19 @@
 ---
-location: [42.67,18.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gravasa
+location:
+  - 42.67
+  - 18.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30548
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

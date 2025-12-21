@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Krapinsko-Zagorska
 location:
   - 46.1
   - 15.9
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Krapinsko-Zagorska
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Krapinsko-Zagorska

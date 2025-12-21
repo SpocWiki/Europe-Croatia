@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Croatia
+  - Croacia
+  - Croatie
+  - كرواتيا
+  - 克罗地亚
+  - Хорватия
+  - the Republic of Croatia
+  - la República de Croacia
+  - ReadMe
 location:
   - 45.8
   - 15.97
@@ -14,21 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Croatia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Croatia
-  - Croacia
-  - Croatie
-  - كرواتيا
-  - 克罗地亚
-  - Хорватия
-  - the Republic of Croatia
-  - la República de Croacia
+publishDate: ''
+expiryDate: ''
 Languages:
   - hr-HR
   - sr

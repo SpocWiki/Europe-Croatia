@@ -1,16 +1,19 @@
 ---
-location: [43.2,17.37] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vergorac
+location:
+  - 43.2
+  - 17.37
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35248
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

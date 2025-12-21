@@ -1,16 +1,19 @@
 ---
-location: [45.3,14.72] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Fuzine
+location:
+  - 45.3
+  - 14.72
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30314
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
