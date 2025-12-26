@@ -1,6 +1,14 @@
 ---
 aliases:
 has_id_wikidata: Q210726
+subclass_of:
+  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+  - "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Croatia,224]]"
+country: "[[_Standards/WikiData/WD~Croatia,224]]"
+Dewey_Decimal_Classification: "949.72"
+Commons_category: History of Croatia
 ---
 
 # [[History_of_Croatia]] 
