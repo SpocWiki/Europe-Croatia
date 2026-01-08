@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.77
 dv_has_place_latitude: 45.23
-dv_name: Pazin
+dv_has_name_: Pazin
 dv_Country: "[[Croatia]] ]"
 ---
 #is_a_/Place  

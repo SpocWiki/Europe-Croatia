@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.45
 dv_has_place_latitude: 43.5
-dv_name: Spalato=Split
+dv_has_name_: Spalato=Split
 dv_Country: "[[../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

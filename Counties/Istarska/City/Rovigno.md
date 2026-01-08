@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.65
 dv_has_place_latitude: 45.08
-dv_name: Rovinj
+dv_has_name_: Rovinj
 dv_Country: "[[Croatia]] ]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.88
 dv_has_place_latitude: 42.28
-dv_name: Kosmac
+dv_has_name_: Kosmac
 dv_Country: "[[../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.37
 dv_has_place_latitude: 43.2
-dv_name: Vergorac
+dv_has_name_: Vergorac
 dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

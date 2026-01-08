@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.97
 dv_has_place_latitude: 45.8
-dv_name: Zagreb
+dv_has_name_: Zagreb
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.47
 dv_has_place_latitude: 44.53
-dv_name: Mali Lošinj
+dv_has_name_: Mali Lošinj
 dv_Country: "[ [[Croatia]] ]"
 ---
 #is_a_/Place  

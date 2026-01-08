@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.52
 dv_has_place_latitude: 45.43
-dv_name: Umag
+dv_has_name_: Umag
 dv_Country: "[[Croatia]] ]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.45
 dv_has_place_latitude: 46.42
-dv_name: Tolna
+dv_has_name_: Tolna
 dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  

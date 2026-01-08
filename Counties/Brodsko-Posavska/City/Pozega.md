@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.72
 dv_has_place_latitude: 45.37
-dv_name: Pozega
+dv_has_name_: Pozega
 dv_Country: "[[../../../../Croatia]]"
 ---
 #is_a_/Place  

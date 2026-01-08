@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.93
 dv_has_place_latitude: 43.75
-dv_name: Sebenico=Sibenik
+dv_has_name_: Sebenico=Sibenik
 dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  

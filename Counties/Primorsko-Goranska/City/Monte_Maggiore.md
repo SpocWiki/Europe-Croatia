@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.2
 dv_has_place_latitude: 45.28
-dv_name: Monte Maggiore
+dv_has_name_: Monte Maggiore
 dv_Country: "[ [[Croatia]] ]"
 ---
 #is_a_/Place  

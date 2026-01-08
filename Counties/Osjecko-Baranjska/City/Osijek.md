@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.7
 dv_has_place_latitude: 45.55
-dv_name: Osijek
+dv_has_name_: Osijek
 dv_Country: "[[../../../../Croatia]] ]"
 ---
 #is_a_/Place  
