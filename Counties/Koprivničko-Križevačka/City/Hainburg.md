@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30712
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.95
+dv_has_place_latitude: 46.15
+dv_name: Hainburg
+dv_Country: "[[../../../../Austria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.95] 
-[has_place_latitude::46.15] 
-[name::Hainburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Austria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hainburg](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg|Hainburg]] 
 
-### [Hainburg.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.public|Hainburg.public]] 
 
-### [Hainburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.internal|Hainburg.internal]] 
 
-### [Hainburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.protect|Hainburg.protect]] 
 
-### [Hainburg.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.private|Hainburg.private]] 
 
-### [Hainburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.personal|Hainburg.personal]] 
 
-### [Hainburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka/City/Hainburg.secret|Hainburg.secret]] 
 

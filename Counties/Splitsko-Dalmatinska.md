@@ -40,17 +40,17 @@ markerFolder: ./Splitsko-Dalmatinska/
 
 ## Confidential Links & Embeds: 
 
-### [Splitsko-Dalmatinska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska|Splitsko-Dalmatinska]] 
 
-### [Splitsko-Dalmatinska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.public|Splitsko-Dalmatinska.public]] 
 
-### [Splitsko-Dalmatinska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.internal|Splitsko-Dalmatinska.internal]] 
 
-### [Splitsko-Dalmatinska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.protect|Splitsko-Dalmatinska.protect]] 
 
-### [Splitsko-Dalmatinska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.private|Splitsko-Dalmatinska.private]] 
 
-### [Splitsko-Dalmatinska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.personal|Splitsko-Dalmatinska.personal]] 
 
-### [Splitsko-Dalmatinska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska.secret|Splitsko-Dalmatinska.secret]] 
 

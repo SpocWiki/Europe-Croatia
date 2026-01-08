@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35248
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.37
+dv_has_place_latitude: 43.2
+dv_name: Vergorac
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.37] 
-[has_place_latitude::43.2] 
-[name::Vergorac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vergorac](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac|Vergorac]] 
 
-### [Vergorac.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.public|Vergorac.public]] 
 
-### [Vergorac.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.internal|Vergorac.internal]] 
 
-### [Vergorac.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.protect|Vergorac.protect]] 
 
-### [Vergorac.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.private|Vergorac.private]] 
 
-### [Vergorac.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.personal|Vergorac.personal]] 
 
-### [Vergorac.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/City/Vergorac.secret|Vergorac.secret]] 
 

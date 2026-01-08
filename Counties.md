@@ -40,17 +40,17 @@ markerFolder: ./Counties/
 
 ## Confidential Links & Embeds: 
 
-### [Counties](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties|Counties]] 
 
-### [Counties.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties.public|Counties.public]] 
 
-### [Counties.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties.internal|Counties.internal]] 
 
-### [Counties.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties.protect|Counties.protect]] 
 
-### [Counties.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties.private|Counties.private]] 
 
-### [Counties.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties.personal|Counties.personal]] 
 
-### [Counties.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties.secret|Counties.secret]] 
 

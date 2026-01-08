@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34401
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.45
+dv_has_place_latitude: 43.5
+dv_name: Spalato=Split
+dv_Country: "[[../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.45] 
-[has_place_latitude::43.5] 
-[name::Spalato=Split] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Europe~South/Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Spalato=Split](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split|Spalato=Split]] 
 
-### [Spalato=Split.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.public|Spalato=Split.public]] 
 
-### [Spalato=Split.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.internal|Spalato=Split.internal]] 
 
-### [Spalato=Split.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.protect|Spalato=Split.protect]] 
 
-### [Spalato=Split.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.private|Spalato=Split.private]] 
 
-### [Spalato=Split.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.personal|Spalato=Split.personal]] 
 
-### [Spalato=Split.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Splitsko-Dalmatinska/Spalato=Split.secret|Spalato=Split.secret]] 
 

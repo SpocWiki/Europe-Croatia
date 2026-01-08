@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34158
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.93
+dv_has_place_latitude: 43.75
+dv_name: Sebenico=Sibenik
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.93] 
-[has_place_latitude::43.75] 
-[name::Sebenico=Sibenik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sebenico=Sibenik](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik|Sebenico=Sibenik]] 
 
-### [Sebenico=Sibenik.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.public|Sebenico=Sibenik.public]] 
 
-### [Sebenico=Sibenik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.internal|Sebenico=Sibenik.internal]] 
 
-### [Sebenico=Sibenik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.protect|Sebenico=Sibenik.protect]] 
 
-### [Sebenico=Sibenik.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.private|Sebenico=Sibenik.private]] 
 
-### [Sebenico=Sibenik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.personal|Sebenico=Sibenik.personal]] 
 
-### [Sebenico=Sibenik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Šibensko-Kninska/City/Sebenico=Sibenik.secret|Sebenico=Sibenik.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.97
+dv_has_place_latitude: 45.8
+dv_name: Zagreb
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"
+
 has_time_started: 1094-01-01 
 aliases:
 has_id_wikidata: Q1435
@@ -152,15 +160,15 @@ Libris_URI: wt798czf338v16t
 # [[Zagreb]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.97] 
-[has_place_latitude::45.8] 
-[name::Zagreb] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Croatia]] 
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/map 
@@ -204,17 +212,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zagreb](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb|Zagreb]] 
 
-### [Zagreb.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.public|Zagreb.public]] 
 
-### [Zagreb.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.internal|Zagreb.internal]] 
 
-### [Zagreb.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.protect|Zagreb.protect]] 
 
-### [Zagreb.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.private|Zagreb.private]] 
 
-### [Zagreb.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.personal|Zagreb.personal]] 
 
-### [Zagreb.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Zagreb.secret|Zagreb.secret]] 
 

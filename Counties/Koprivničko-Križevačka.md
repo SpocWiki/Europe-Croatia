@@ -40,17 +40,17 @@ markerFolder: ./Koprivničko-Križevačka/
 
 ## Confidential Links & Embeds: 
 
-### [Koprivničko-Križevačka](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka|Koprivničko-Križevačka]] 
 
-### [Koprivničko-Križevačka.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.public|Koprivničko-Križevačka.public]] 
 
-### [Koprivničko-Križevačka.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.internal|Koprivničko-Križevačka.internal]] 
 
-### [Koprivničko-Križevačka.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.protect|Koprivničko-Križevačka.protect]] 
 
-### [Koprivničko-Križevačka.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.private|Koprivničko-Križevačka.private]] 
 
-### [Koprivničko-Križevačka.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.personal|Koprivničko-Križevačka.personal]] 
 
-### [Koprivničko-Križevačka.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Koprivničko-Križevačka.secret|Koprivničko-Križevačka.secret]] 
 

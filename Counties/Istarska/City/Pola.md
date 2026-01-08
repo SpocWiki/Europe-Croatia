@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33428
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.85
+dv_has_place_latitude: 44.87
+dv_name: Pula
+dv_Country: "[[Croatia]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.85] 
-[has_place_latitude::44.87] 
-[name::Pula] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Croatia]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pola](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola|Pola]] 
 
-### [Pola.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.public|Pola.public]] 
 
-### [Pola.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.internal|Pola.internal]] 
 
-### [Pola.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.protect|Pola.protect]] 
 
-### [Pola.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.private|Pola.private]] 
 
-### [Pola.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.personal|Pola.personal]] 
 
-### [Pola.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Istarska/City/Pola.secret|Pola.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34508
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.7
+dv_has_place_latitude: 42.83
+dv_name: Stagno
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.7] 
-[has_place_latitude::42.83] 
-[name::Stagno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stagno](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno|Stagno]] 
 
-### [Stagno.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.public|Stagno.public]] 
 
-### [Stagno.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.internal|Stagno.internal]] 
 
-### [Stagno.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.protect|Stagno.protect]] 
 
-### [Stagno.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.private|Stagno.private]] 
 
-### [Stagno.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.personal|Stagno.personal]] 
 
-### [Stagno.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Stagno.secret|Stagno.secret]] 
 

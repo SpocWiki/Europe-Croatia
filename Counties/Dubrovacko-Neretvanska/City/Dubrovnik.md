@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29895
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.12
+dv_has_place_latitude: 42.65
+dv_name: Dubrovnik
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.12] 
-[has_place_latitude::42.65] 
-[name::Dubrovnik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dubrovnik](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik|Dubrovnik]] 
 
-### [Dubrovnik.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.public|Dubrovnik.public]] 
 
-### [Dubrovnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.internal|Dubrovnik.internal]] 
 
-### [Dubrovnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.protect|Dubrovnik.protect]] 
 
-### [Dubrovnik.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.private|Dubrovnik.private]] 
 
-### [Dubrovnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.personal|Dubrovnik.personal]] 
 
-### [Dubrovnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Dubrovnik.secret|Dubrovnik.secret]] 
 

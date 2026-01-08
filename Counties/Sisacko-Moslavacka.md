@@ -40,17 +40,17 @@ markerFolder: ./Sisacko-Moslavacka/
 
 ## Confidential Links & Embeds: 
 
-### [Sisacko-Moslavacka](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka|Sisacko-Moslavacka]] 
 
-### [Sisacko-Moslavacka.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.public|Sisacko-Moslavacka.public]] 
 
-### [Sisacko-Moslavacka.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.internal|Sisacko-Moslavacka.internal]] 
 
-### [Sisacko-Moslavacka.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.protect|Sisacko-Moslavacka.protect]] 
 
-### [Sisacko-Moslavacka.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.private|Sisacko-Moslavacka.private]] 
 
-### [Sisacko-Moslavacka.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.personal|Sisacko-Moslavacka.personal]] 
 
-### [Sisacko-Moslavacka.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Sisacko-Moslavacka.secret|Sisacko-Moslavacka.secret]] 
 

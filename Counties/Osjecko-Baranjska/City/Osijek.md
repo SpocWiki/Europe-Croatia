@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33156
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.7
+dv_has_place_latitude: 45.55
+dv_name: Osijek
+dv_Country: "[[../../../../Croatia]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.7] 
-[has_place_latitude::45.55] 
-[name::Osijek] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Croatia]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Osijek](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek|Osijek]] 
 
-### [Osijek.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.public|Osijek.public]] 
 
-### [Osijek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.internal|Osijek.internal]] 
 
-### [Osijek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.protect|Osijek.protect]] 
 
-### [Osijek.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.private|Osijek.private]] 
 
-### [Osijek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.personal|Osijek.personal]] 
 
-### [Osijek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Osjecko-Baranjska/City/Osijek.secret|Osijek.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32150
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.47
+dv_has_place_latitude: 44.53
+dv_name: Mali Lošinj
+dv_Country: "[ [[Croatia]] ]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.47] 
-[has_place_latitude::44.53] 
-[name::Mali Lošinj] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [ [[Croatia]] ] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lussinpinolo](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo|Lussinpinolo]] 
 
-### [Lussinpinolo.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.public|Lussinpinolo.public]] 
 
-### [Lussinpinolo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.internal|Lussinpinolo.internal]] 
 
-### [Lussinpinolo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.protect|Lussinpinolo.protect]] 
 
-### [Lussinpinolo.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.private|Lussinpinolo.private]] 
 
-### [Lussinpinolo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.personal|Lussinpinolo.personal]] 
 
-### [Lussinpinolo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Lussinpinolo.secret|Lussinpinolo.secret]] 
 

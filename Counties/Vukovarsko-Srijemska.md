@@ -40,17 +40,17 @@ markerFolder: ./Vukovarsko-Srijemska/
 
 ## Confidential Links & Embeds: 
 
-### [Vukovarsko-Srijemska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska|Vukovarsko-Srijemska]] 
 
-### [Vukovarsko-Srijemska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.public|Vukovarsko-Srijemska.public]] 
 
-### [Vukovarsko-Srijemska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.internal|Vukovarsko-Srijemska.internal]] 
 
-### [Vukovarsko-Srijemska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.protect|Vukovarsko-Srijemska.protect]] 
 
-### [Vukovarsko-Srijemska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.private|Vukovarsko-Srijemska.private]] 
 
-### [Vukovarsko-Srijemska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.personal|Vukovarsko-Srijemska.personal]] 
 
-### [Vukovarsko-Srijemska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Vukovarsko-Srijemska.secret|Vukovarsko-Srijemska.secret]] 
 

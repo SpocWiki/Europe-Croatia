@@ -40,17 +40,17 @@ markerFolder: ./Primorsko-Goranska/
 
 ## Confidential Links & Embeds: 
 
-### [Primorsko-Goranska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska|Primorsko-Goranska]] 
 
-### [Primorsko-Goranska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.public|Primorsko-Goranska.public]] 
 
-### [Primorsko-Goranska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.internal|Primorsko-Goranska.internal]] 
 
-### [Primorsko-Goranska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.protect|Primorsko-Goranska.protect]] 
 
-### [Primorsko-Goranska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.private|Primorsko-Goranska.private]] 
 
-### [Primorsko-Goranska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.personal|Primorsko-Goranska.personal]] 
 
-### [Primorsko-Goranska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska.secret|Primorsko-Goranska.secret]] 
 

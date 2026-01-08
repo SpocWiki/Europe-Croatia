@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31589
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.88
+dv_has_place_latitude: 42.28
+dv_name: Kosmac
+dv_Country: "[[../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.88] 
-[has_place_latitude::42.28] 
-[name::Kosmac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Europe~South/Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kosmac](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac|Kosmac]] 
 
-### [Kosmac.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.public|Kosmac.public]] 
 
-### [Kosmac.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.internal|Kosmac.internal]] 
 
-### [Kosmac.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.protect|Kosmac.protect]] 
 
-### [Kosmac.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.private|Kosmac.private]] 
 
-### [Kosmac.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.personal|Kosmac.personal]] 
 
-### [Kosmac.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/Kosmac.secret|Kosmac.secret]] 
 

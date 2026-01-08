@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30314
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.72
+dv_has_place_latitude: 45.3
+dv_name: Fuzine
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.72] 
-[has_place_latitude::45.3] 
-[name::Fuzine] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuzine](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine|Fuzine]] 
 
-### [Fuzine.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.public|Fuzine.public]] 
 
-### [Fuzine.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.internal|Fuzine.internal]] 
 
-### [Fuzine.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.protect|Fuzine.protect]] 
 
-### [Fuzine.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.private|Fuzine.private]] 
 
-### [Fuzine.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.personal|Fuzine.personal]] 
 
-### [Fuzine.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Primorsko-Goranska/City/Fuzine.secret|Fuzine.secret]] 
 

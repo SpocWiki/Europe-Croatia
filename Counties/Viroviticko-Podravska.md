@@ -40,17 +40,17 @@ markerFolder: ./Viroviticko-Podravska/
 
 ## Confidential Links & Embeds: 
 
-### [Viroviticko-Podravska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska|Viroviticko-Podravska]] 
 
-### [Viroviticko-Podravska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.public|Viroviticko-Podravska.public]] 
 
-### [Viroviticko-Podravska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.internal|Viroviticko-Podravska.internal]] 
 
-### [Viroviticko-Podravska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.protect|Viroviticko-Podravska.protect]] 
 
-### [Viroviticko-Podravska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.private|Viroviticko-Podravska.private]] 
 
-### [Viroviticko-Podravska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.personal|Viroviticko-Podravska.personal]] 
 
-### [Viroviticko-Podravska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Viroviticko-Podravska.secret|Viroviticko-Podravska.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Medimurska/
 
 ## Confidential Links & Embeds: 
 
-### [Medimurska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska|Medimurska]] 
 
-### [Medimurska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.public|Medimurska.public]] 
 
-### [Medimurska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.internal|Medimurska.internal]] 
 
-### [Medimurska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.protect|Medimurska.protect]] 
 
-### [Medimurska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.private|Medimurska.private]] 
 
-### [Medimurska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.personal|Medimurska.personal]] 
 
-### [Medimurska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Medimurska.secret|Medimurska.secret]] 
 

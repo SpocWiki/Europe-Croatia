@@ -40,17 +40,17 @@ markerFolder: ./Zadarska/
 
 ## Confidential Links & Embeds: 
 
-### [Zadarska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska|Zadarska]] 
 
-### [Zadarska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.public|Zadarska.public]] 
 
-### [Zadarska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.internal|Zadarska.internal]] 
 
-### [Zadarska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.protect|Zadarska.protect]] 
 
-### [Zadarska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.private|Zadarska.private]] 
 
-### [Zadarska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.personal|Zadarska.personal]] 
 
-### [Zadarska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Zadarska.secret|Zadarska.secret]] 
 

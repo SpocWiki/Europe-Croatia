@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30548
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.08
+dv_has_place_latitude: 42.67
+dv_name: Gravasa
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.08] 
-[has_place_latitude::42.67] 
-[name::Gravasa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gravasa](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa|Gravasa]] 
 
-### [Gravasa.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.public|Gravasa.public]] 
 
-### [Gravasa.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.internal|Gravasa.internal]] 
 
-### [Gravasa.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.protect|Gravasa.protect]] 
 
-### [Gravasa.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.private|Gravasa.private]] 
 
-### [Gravasa.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.personal|Gravasa.personal]] 
 
-### [Gravasa.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Dubrovacko-Neretvanska/City/Gravasa.secret|Gravasa.secret]] 
 

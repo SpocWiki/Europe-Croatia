@@ -40,17 +40,17 @@ markerFolder: ./Licko-Senjska/
 
 ## Confidential Links & Embeds: 
 
-### [Licko-Senjska](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska|Licko-Senjska]] 
 
-### [Licko-Senjska.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.public|Licko-Senjska.public]] 
 
-### [Licko-Senjska.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.internal|Licko-Senjska.internal]] 
 
-### [Licko-Senjska.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.protect|Licko-Senjska.protect]] 
 
-### [Licko-Senjska.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.private|Licko-Senjska.private]] 
 
-### [Licko-Senjska.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.personal|Licko-Senjska.personal]] 
 
-### [Licko-Senjska.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Licko-Senjska.secret|Licko-Senjska.secret]] 
 

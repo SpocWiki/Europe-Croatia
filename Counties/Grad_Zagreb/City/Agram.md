@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28684
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.92
+dv_has_place_latitude: 45.82
+dv_name: Agram
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.92] 
-[has_place_latitude::45.82] 
-[name::Agram] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agram](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram|Agram]] 
 
-### [Agram.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.public|Agram.public]] 
 
-### [Agram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.internal|Agram.internal]] 
 
-### [Agram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.protect|Agram.protect]] 
 
-### [Agram.private](/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.private|Agram.private]] 
 
-### [Agram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.personal|Agram.personal]] 
 
-### [Agram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Croatia/Counties/Grad_Zagreb/City/Agram.secret|Agram.secret]] 
 
