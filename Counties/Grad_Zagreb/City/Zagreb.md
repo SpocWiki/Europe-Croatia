@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.97
 dv_has_place_latitude: 45.8
-dv_has_name_: Zagreb
+dv_has_name: Zagreb
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Zagreb,1435|WD~Zagreb,1435]]"
@@ -163,7 +163,7 @@ Libris_URI: wt798czf338v16t
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Croatia]] 
 [StateId::] 
