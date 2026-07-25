@@ -350,7 +350,7 @@ dv_UNTERM_Chinese_Formal: 克罗地亚共和国
 dv_UNTERM_French_Formal: la République de Croatie
 dv_UNTERM_Russian: Хорватия
 dv_UNTERM_Russian_Formal: Республика Хорватия
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Croatia]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -375,7 +375,7 @@ dv_ISO2: HR
 dv_ISO3: HRV
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
+  - '[[../../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]'
@@ -386,17 +386,17 @@ dv_is_:
 dv_has_name_de: Kroatien
 dv_Area-Total: 56538
 dv_Area-Land: 55920
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: HR
-dv_Capital: '[[Croatia/Counties/Grad_Zagreb/City/Zagreb|Zagreb]]'
+dv_Capital: '[[Counties/Grad_Zagreb/City/Zagreb|Zagreb]]'
 dv_Alcohol-l: 15.1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.97
 dv_has_place_latitude: 45.8
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Croatia
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
+- '[[../../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]'
@@ -690,7 +690,7 @@ member_of:
 - '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
 - '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
 - '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
 - '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
@@ -1049,7 +1049,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Croatia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1069,7 +1069,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Croatia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1095,7 +1095,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Croatia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Croatia.mp3|Anthem-Croatia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Croatia.mp3|Anthem-Croatia.mp3]]
 ![[Flag_of_Croatia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
